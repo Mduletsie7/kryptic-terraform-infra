@@ -89,6 +89,4 @@ resource "azurerm_container_app" "aca" {
       percentage      = 100
     }
   }
-
-
 }
